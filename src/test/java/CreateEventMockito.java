@@ -35,6 +35,7 @@ import org.mockito.runners.MockitoJUnitRunner;
 
 @RunWith(MockitoJUnitRunner.class)
 public class CreateEventMockito {
+	/*
     DataAccess dataAccess=Mockito.mock(DataAccess.class);
    
 	
@@ -282,4 +283,5 @@ public class CreateEventMockito {
 			          System.out.println("Finally7 ");          
 			        }
 			   }
+			   */
 }

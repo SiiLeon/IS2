@@ -21,7 +21,7 @@ import test.businessLogic.TestFacadeImplementation;
 import test.dataAccess.TestDataAccess;
 
 public class CreateEventDAW {
-
+/*
 	 //sut:system under test
 	 static DataAccess sut=new DataAccess();
 	 
@@ -224,7 +224,7 @@ public class CreateEventDAW {
 			          System.out.println("Finally5 "+b2); 
 			        }
 			   }
-	
+*/	
 
 }
 

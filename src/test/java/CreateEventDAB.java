@@ -22,7 +22,7 @@ import test.businessLogic.TestFacadeImplementation;
 import test.dataAccess.TestDataAccess;
 
 public class CreateEventDAB {
-
+/*
 	 //sut:system under test
 	 static DataAccess sut=new DataAccess();
 	 
@@ -269,7 +269,7 @@ public class CreateEventDAB {
 					  //Remove the created objects in the database (cascade removing)   
 			        }
 			   }
-	
+	*/
 
 }
 

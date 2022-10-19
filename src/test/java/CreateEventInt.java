@@ -24,6 +24,7 @@ import exceptions.UnknownTeamException;
 import test.businessLogic.TestFacadeImplementation;
 
 public class CreateEventInt {
+	/*
 	 static BLFacadeImplementation sut;
 	 static TestFacadeImplementation testBL;
 
@@ -278,6 +279,6 @@ public class CreateEventInt {
 					  //Remove the created objects in the database (cascade removing)   
 			        }
 			   }
-	
+	*/
 
 }
